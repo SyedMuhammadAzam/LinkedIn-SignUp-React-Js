@@ -1,0 +1,32 @@
+.p {
+  font-weight: 10;
+  font-family: "Monaco", monospace;
+  font-size: 13px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  background-color: #ffffff;
+  margin: 0.5rem 0;
+  width: 2000px;
+  max-width: 1250px;
+  margin: 2rem auto;
+  padding: 1rem;
+  overflow-x: hidden;
+}
+
+a:link {
+  color: #696969;
+  text-decoration: none;
+  padding: 0px 5px;
+  word-wrap: normal;
+  display: inline-block;
+}
+a:visited {
+  color: #00008b;
+  text-decoration: none;
+}
+a:hover {
+  color: #00008b;
+  text-decoration: underline;
+}
+
+
